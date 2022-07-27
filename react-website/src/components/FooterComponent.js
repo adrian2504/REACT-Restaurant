@@ -40,7 +40,7 @@ function Footer(){
             </div>
             <div className="row justify-content-center">             
                 <div className="col-auto">
-                    <p>© Copyright 2020 React-Webpage</p>
+                    <p>© Copyright 2022 React-Webpage</p>
                 </div>
             </div>
         </div>
